@@ -56,7 +56,7 @@ extension ViewController: UIScrollViewDelegate {
 
 
 # Library
-use Sapkit
+use SnapKit
 https://github.com/SnapKit/SnapKit
 
 
